@@ -48,8 +48,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   sitemap: {
     hostname: 'https://vitepress-theme-bluearchive.vercel.app',
   },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "Sensei's Blog",
+  description: "Sensei's Blog",
   themeConfig: {
     // navBar
     menuList: [
@@ -58,13 +58,13 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //banner区配置
-    name: "Sensei's 部落格",
+    name: "Canary Sensei's Blog",
     welcomeText: 'Hello, VitePress',
     motto: '何気ない日常で、ほんの少しの奇跡を見つける物語。',
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
-      { icon: 'qq', url: 'https://im.qq.com/index/' },
+      { icon: 'github', url: 'https://github.com/sober0x7c00' },
+      { icon: 'bilibili', url: 'https://space.bilibili.com/693699801' },
+      { icon: 'qq', url: 'https://qm.qq.com/q/z0HKEgMYU2' },
       { icon: 'wechat', url: 'https://weixin.qq.com/' },
     ],
 
