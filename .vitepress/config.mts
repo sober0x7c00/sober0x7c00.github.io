@@ -58,6 +58,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //banner区配置
+
     name: "Canary Sensei's Blog",
     welcomeText: 'Hello, Sensie',
     motto: '何気ない日常で、ほんの少しの奇跡を見つける物語。',
